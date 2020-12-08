@@ -1,0 +1,11 @@
+/media/hussein/My Work/Infinx Hot 2/Port Maker/Port Maker/obj/Debug/.NETFramework,Version=v4.6.AssemblyAttribute.cs
+/media/hussein/My Work/Infinx Hot 2/Port Maker/Port Maker/obj/Debug/Port_Maker.Cross_Port.resources
+/media/hussein/My Work/Infinx Hot 2/Port Maker/Port Maker/obj/Debug/Port_Maker.Interface.resources
+/media/hussein/My Work/Infinx Hot 2/Port Maker/Port Maker/obj/Debug/Port_Maker.Form2.resources
+/media/hussein/My Work/Infinx Hot 2/Port Maker/Port Maker/obj/Debug/Port_Maker.Properties.Resources.resources
+/media/hussein/My Work/Infinx Hot 2/Port Maker/Port Maker/bin/Debug/Port Maker.exe.config
+/media/hussein/My Work/Infinx Hot 2/Port Maker/Port Maker/bin/Debug/Port Maker.exe.mdb
+/media/hussein/My Work/Infinx Hot 2/Port Maker/Port Maker/bin/Debug/Port Maker.exe
+/media/hussein/My Work/Infinx Hot 2/Port Maker/Port Maker/obj/Debug/Port Maker.exe
+/media/hussein/My Work/Infinx Hot 2/Port Maker/Port Maker/obj/Debug/Port Maker.exe.mdb
+/media/hussein/My Work/Infinx Hot 2/Port Maker/Port Maker/bin/Debug/Ionic.Zip.dll
